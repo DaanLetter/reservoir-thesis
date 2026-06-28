@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1283226912.svg)](https://doi.org/10.5281/zenodo.21007765)
+
 # Reservoir operations and lake-temperature modelling in PCR-GLOBWB 2
 
 Code accompanying the MSc thesis *"Quantity before quality: validating data-derived
