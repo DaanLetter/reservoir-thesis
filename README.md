@@ -6,12 +6,12 @@ reservoir operations and a low-input lake-temperature model in PCR-GLOBWB 2"*
 
 The project has two components:
 
-1. **Point model** — a standalone reconstruction of the STARFIT data-derived
+1. **Point model**: a standalone reconstruction of the STARFIT data-derived
    reservoir operating scheme as implemented in PCR-GLOBWB 2, validated against
    observed storage and outflow for 357 CONUS reservoirs (ResOpsUS). Introduces
    the **inflow-to-band ratio (IBR)** as an a-priori predictor of where the scheme
    fails.
-2. **air2water** — calibration and validation of the lumped air2water model for
+2. **air2water**: calibration and validation of the lumped air2water model for
    daily lake surface water temperature from air temperature alone, across 56
    globally distributed, reservoir-dominated lakes.
 
