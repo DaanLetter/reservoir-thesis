@@ -1,0 +1,11 @@
+Metric,Value
+Lakes calibrated and validated,56 / 56 (0 failures)
+Median calibration RMSE,1.12 degC
+Median validation RMSE,1.25 degC
+Validation RMSE range,0.85--1.73 degC
+"Pooled daily RMSE, calibration","1.17 degC (n=22,088)"
+"Pooled daily RMSE, validation","1.27 degC (n=86,828)"
+Median validation NSE,0.96
+Median validation bias,-0.02 degC
+Median cal-to-val RMSE increase,0.10 degC (8%)
+Lakes validating better than calibrating,7 / 56

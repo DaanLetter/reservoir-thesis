@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+xarray
+netCDF4
+matplotlib
+seaborn
+geopandas
+scikit-learn
+joblib
+requests
+# pcraster is also required (for the PCR-GLOBWB grid handling) but is not on PyPI;
+# install it via conda:  conda install -c conda-forge pcraster

@@ -1,0 +1,19 @@
+# Data (large / third-party — see README for sources)
+Data/
+*.nc
+*.zip
+*.xlsx
+
+# air2water tool (third-party, ~3 GB — download from upstream, see README)
+temperature_estimation/air2water/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Backups / scratch
+*.bak
+*.corrupted*
+*_RESTORED*
+claude/
